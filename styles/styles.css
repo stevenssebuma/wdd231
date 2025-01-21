@@ -1,0 +1,119 @@
+body {  
+    font-family: Arial, sans-serif;  
+    margin: 0;  
+    padding: 0;  
+}  
+
+header {  
+    background-color: #003366;  
+    color: white;  
+    padding: 20px;  
+    text-align: center;  
+}  
+
+.profile {  
+    position: relative;  
+}  
+
+.profile-img {  
+    width: 100px;  
+    height: auto;  
+    border-radius: 50%;  
+}  
+
+nav {  
+    position: relative;  
+}  
+
+.hamburger {  
+    display: none; /* Hidden by default */  
+    font-size: 30px;  
+    cursor: pointer;  
+}  
+
+#menu {  
+    list-style: none;  
+    padding: 0;  
+    margin: 0;  
+}  
+
+#menu li {  
+    margin: 10px 0;  
+}  
+
+.hidden {  
+    display: none; /* Class to hide menu */  
+}  
+
+main {  
+    display: flex;  
+    flex-direction: column; /* Stack items on mobile */  
+    align-items: center; /* Center items */  
+    margin: 20px 0;  
+}  
+
+.course-work, .toloria {  
+    border: 2px solid #003366;  
+    padding: 20px;  
+    width: 90%; /* 90% width for mobile */  
+    margin-bottom: 20px; /* Space between sections */  
+}  
+
+.toloria img {  
+    max-width: 100%;  
+}  
+
+footer {  
+    text-align: center;  
+    background-color: #f2f2f2;  
+    padding: 10px 0;  
+}  
+
+.certificate {  
+    margin: 20px 0;  
+}  
+
+.courses {  
+    display: flex;  
+    flex-wrap: wrap; /* Allow wrapping of buttons */  
+    justify-content: center; /* Center buttons */  
+}  
+
+.courses button {  
+    margin: 5px;  
+}  
+
+/* Media Queries for larger screens */  
+@media (min-width: 768px) {  
+    main {  
+        flex-direction: row; /* Side by side on larger screens */  
+    }  
+
+    .course-work, .toloria {  
+        width: 45%; /* 45% width for larger screens */  
+        margin-bottom: 0; /* Remove bottom margin */  
+    }  
+}  
+
+/* Styles for the mobile menu */  
+@media (max-width: 768px) {  
+    .hamburger {  
+        display: block; /* Show hamburger on mobile */  
+    }  
+    
+    #menu {  
+        display: none; /* Hide menu by default on mobile */  
+        flex-direction: column;  
+        position: absolute; /* Position absolute for dropdown */  
+        top: 60px; /* Adjust as needed based on header height */  
+        left: 0;  
+        right: 0;  
+        background-color: #003366;  
+        color: white;  
+        border-radius: 0 0 10px 10px;  
+    }  
+
+    #menu.show {  
+        display: flex; /* Show menu when toggled */  
+    }  
+}
