@@ -3,64 +3,75 @@
 <head>  
     <meta charset="UTF-8">  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Rubia M. Francesco</title>  
+    <title>Steven Ssebuma </title>  
     <link rel="stylesheet" href="styles/styles.css">  
+    <script src="scripts/hamburger.js" defer></script>
 </head>  
 <body>  
     <header>  
-        <div class="profile">  
-            <img src="profile.jpg" alt="Rubia M. Francesco" class="profile-img">  
-            <h1>Rubia M. Francesco</h1>  
-            <nav>  
-                <div class="hamburger" onclick="toggleMenu()">  
-                    &#9776;  
-                </div>  
-                <ul id="menu" class="hidden">  
-                    <li><a href="#">Home</a></li>  
-                    <li><a href="#">Chamber</a></li>  
-                    <li><a href="#">GitHub Profile</a></li>  
-                    <li><a href="#">LinkedIn</a></li>  
-                </ul>  
-            </nav>  
+        <div class="header-container">  
+            <img src="images/steven-pic-min.jpg" alt="Steven Ssebuma Profile Picture" class="profile-pic">  
+            <h1>Steven Ssebuma</h1>  
+            <div class="hamburger" id="hamburger">&#9776;</div>  
+            <div class="close" id="close">&times;</div> <!-- Close button -->
         </div>  
-    </header>  
-
-    <main>  
-        <section class="course-work">  
+    
+    </header>
+    <div>
+    <nav id="nav">  
+        
+        <ul>  
+            <li><a href="index.html">Home</a></li>  
+            <li><a href="#">Chamber</a></li>  
+            <li><a href="https://github.com/stevenssebuma">GitHub Profile</a></li>  
+            <li><a href="https://www.linkedin.com/in/steven-ssebuma-b58471268/">LinkedIn</a></li>  
+        </ul>  
+    </nav>    
+    </div>
+    <div class="content">  
+        <div class="course-work">  
             <h2>Course Work</h2>  
             <ul>  
                 <li></li>  
                 <li></li>  
             </ul>  
-        </section>  
+        </div>  
+        
+        <div class="toloria">  
+            <section class="city">            
+                <h2>Kampala, Uganda</h2>
+            </section> 
+            <div class="falls">
+            <img src="images/falls.jpeg" alt="Murchison Falls">
+            </div>  
+            <p>Murchison Falls</p>  
+        </div>  
+    </div>  
 
-        <section class="toloria">  
-            <h2>Toloria, Madagascar</h2>  
-            <img src="baobab_trees.jpg" alt="Baobab Trees">  
-        </section>
-        <section class="certificate">
-        <div class="certificate">  
-            <h2>Web and Computer Programming Certificate</h2>  
+    <div class="certificate">
+        <div>  
+        <h2>Web and Computer Programming Certificate</h2>  
+        </div>
+        <div class="buttons">  
             <button>All</button>  
             <button>CSE</button>  
             <button>WDD</button>  
-            <div class="courses">  
-                <button>CSE 110</button>  
-                <button>WDD 130</button>  
-                <button>CSE 111</button>  
-                <button>CSE 210</button>  
-                <button>WDD 131</button>  
-                <button>WDD 231</button>  
-            </div>  
-        </div>
-        </section>    
-    </main>  
+        </div>  
+        <div class="courses">  
+            <button>CSE 110</button>  
+            <button>WDD 130</button>  
+            <button>CSE 111</button>  
+            <button>CSE 210</button>  
+            <button>WDD 131</button>  
+            <button>WDD 231</button>  
+        </div>  
+    </div>  
 
     <footer>  
-       
-        <p>©2025 Rubia Magdalena Francesco 🇲🇬</p>  
+        <p>©2025 Steven Ssebuma Francesco 🇲🇬 Uganda</p>  
         <p>Last Update: 01/01/1970 12:00:00</p>  
-        <script src="scripts/script.js"></script>  
     </footer>  
+
+    <script src="script.js"></script>  
 </body>  
 </html>

@@ -1,7 +1,3 @@
-function toggleMenu() {  
-    const menu = document.getElementById('menu');  
-    menu.classList.toggle('show');  
-}
 
 const url = 'data/members.json';  
 const gridDirectory = document.querySelector('#gridDirectory');  
