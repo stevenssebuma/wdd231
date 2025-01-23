@@ -1,5 +1,5 @@
 const baseURL = "https://stevenssebuma.github.io/wdd230/chamber/";
-const membersURL = "https://stevenssebuma.github.io/wdd230/chamber/data/members.json";
+const membersURL = "https://stevenssebuma.github.io/wdd230/chamber/data/memebers.json";
 const docMembers = document.querySelector("#members");
 
 async function getMembers() {
