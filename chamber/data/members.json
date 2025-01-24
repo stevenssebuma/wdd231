@@ -13,7 +13,7 @@
             "website": "https://www.mukwano.com/",
             "logo": {
                 "url": "https://mukwano.com/wp-content/uploads/2020/08/mukwano-logo.png",
-                "width": "250",
+                "width": "200",
                 "height": "100"
             },
             "membership": "gold",
@@ -113,8 +113,8 @@
             "website": "https://www.serenahotels.com/",
             "logo": {
                 "url": "https://image-tc.galaxy.tf/wisvg-bef60isivhiwcb2xdupujlz1o/serena-hotel-colored-logo.svg?width=122&height=64",
-                "width": "122",
-                "height": "64"
+                "width": "250",
+                "height": "100"
             },
             "membership": "silver",
             "category": "Hospitality",
@@ -133,8 +133,8 @@
             "website": "https://www.spearmotors.net/",
             "logo": {
                 "url": "https://static.wixstatic.com/media/adc327_98430ed33df049ed9482decb33597e40~mv2.jpg/v1/fill/w_121,h_85,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-02-28%20at%203_27_edited.jpg",
-                "width": "250",
-                "height": "100"
+                "width": "200",
+                "height": "80"
             },
             "membership": "gold",
             "category": "Automotive",
@@ -153,7 +153,7 @@
             "website": "https://www.sportamed.com/",
             "logo": {
                 "url": "https://www.f6s.com/content-resource/profiles/5688779_22f698a9be02137ab8696405550c72c57284438f_th1.jpg",
-                "width": "275",
+                "width": "200",
                 "height": "75"
             },
             "membership": "bronze",
