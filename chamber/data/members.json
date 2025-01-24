@@ -21,96 +21,96 @@
             "advertisement": "Get an Extra 10% off purchases if you are a Chamber Member"
         },
         {
-            "business": "Bounty Hunters Grind & Grill",
+            "business": "Uganda Baati Ltd",
             "address": {
-                "street": "406 Vernon St",
-                "city": "Roseville",
-                "state": "CA",
-                "zip": "95678"
+                "street": "Plot 14/28 Old Portbell Road",
+                "city": "Kampala",
+                "state": "UG",
+                "zip": "256"
             },
-            "phone": "9167720406",
-            "email": "order@bountyhuntersroseville.com",
-            "website": "https://www.bountyhunterscafe.com/",
+            "phone": "+256312260000",
+            "email": "",
+            "website": "https://www.ugandabaati.com/",
             "logo": {
-                "url": "https://static.wixstatic.com/media/d996e1_6b71d5e8a01e405cb15a61bf405a5927~mv2.jpg/v1/crop/x_438,y_1111,w_3216,h_1833/fill/w_299,h_178,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/d996e1_6b71d5e8a01e405cb15a61bf405a5927~mv2.jpg",
-                "width": "150",
+                "url": "https://ugandabaati.com/wp-content/uploads/2020/02/site-logo.png",
+                "width": "250",
                 "height": "100"
             },
             "membership": "silver",
-            "category": "Restaurant",
-            "advertisement": "Dessert is on us Monday nights! Have dinner and save room for sweets! One free dessert for each purchased dinner after 5pm."
+            "category": "Home Improvement",
+            "advertisement": "Get 5% off all purchases if you are a Chamber Member"
         },
         {
-            "business": "Byers Gymnastics Center",
+            "business": "Coca-Cola Beverages Africa",
             "address": {
-                "street": "2009 Opportunity Dr",
-                "city": "Roseville",
-                "state": "CA",
-                "zip": "95678"
+                "street": "Plot 38-40 Jinja Road",
+                "city": "Kampala",
+                "state": "UG",
+                "zip": "256"
             },
-            "phone": "9167812939",
-            "email": "info@byersroseville.com",
-            "website": "https://byersgym.com/",
+            "phone": "+256312210000",
+            "email": " ",
+            "website": "https://www.coca-colaafrica.com/",
             "logo": {
-                "url": "https://byersgym.com/wp-content/uploads/2019/11/cropped-Byers-Gymnastics-Center-Logo-1.png",
-                "width": "93",
-                "height": "100"
-            },
-            "membership": "silver",
-            "category": "Sports & Recreation",
-            "advertisement": "One free practice session. Call us to schedule with one of our amazing instructors."
-        },
-        {
-            "business": "Costa Vida Fresh Mexican Grill",
-            "address": {
-                "street": "1475 Eureka Rd STE 100",
-                "city": "Roseville",
-                "state": "CA",
-                "zip": "95661"
-            },
-            "phone": "9167739283",
-            "email": "togo@costavida.com",
-            "website": "https://www.costavida.com/",
-            "logo": {
-                "url": "https://www.costavida.com/wp-content/uploads/2023/03/logo-costa-vida.svg",
+                "url": "https://www.coca-cola.com/content/dam/onexp/global/icons/Coke-company-logo-black.svg",
                 "width": "250",
                 "height": "100"
             },
             "membership": "gold",
-            "category": "Restaurant",
-            "advertisement": "Kids eat free Tuesdays all summer long. With the purchase of one adult meal, get one kid's meal free. Available for kids 10 and under."
+            "category": "Food & Beverage",
+            "advertisement": "Get 10% off all purchases if you are a Chamber Member"
         },
         {
-            "business": "Denio's Roseville Farmers Market",
+            "business": " Roofings Group",
             "address": {
-                "street": "2013 Opportunity Dr STE 140",
-                "city": "Roseville",
-                "state": "CA",
-                "zip": "95678"
+                "street": "Plot 126 Lubowa Estate",
+                "city": "Kampala",
+                "state": "UG",
+                "zip": "256"
             },
-            "phone": "9167822704",
-            "email": "info@deniosmarket.com",
-            "website": "https://deniosmarket.com/",
+            "phone": "+256312200400",
+            "email": " ",
+            "website": "https://www.roofingsgroup.com/",
             "logo": {
-                "url": "http://deniosmarket.com/wp-content/uploads/denios_logo_resized.png",
-                "width": "125",
+                "url": "https://roofingsgroup.com/wp-content/uploads/2023/11/roofings-logo.-02-1-e1701155682499.png",
+                "width": "250",
+                "height": "100"
+            },
+            "membership": "silver",
+            "category": "Home Improvement",
+            "advertisement": "Get 10% off all purchases if you are a Chamber Member"
+        },
+        {
+            "business": "Kentucky Fried Chicken",
+            "address": {
+                "street": "Plot 2A Kampala Road",
+                "city": "Kampala",
+                "state": "UG",
+                "zip": "256"
+            },
+            "phone": "+256312260000",
+            "email": "info@deniosmarket.com",
+            "website": "https://www.kfcuganda.ug/",
+            "logo": {
+                "url": "https://cdn.tictuk.com/96309cfa-802c-f2cd-e79e-71062fea6db5/assets/logoDesktopHeader.svg",
+                "width": "250",
                 "height": "100"
             },
             "membership": "bronze",
-            "category": "Shopping",
-            "advertisement": ""
+            "category": "Food & Beverage",
+            "advertisement": " Get 5% off all purchases if you are a Chamber Member"
         },
         {
-            "business": "Landscape & Tree Company",
+            "business": "",
             "address": {
-                "street": "9340 Viking Place",
-                "city": "Roseville",
-                "state": "CA",
-                "zip": "95747"
+                "street": "Plot 2A Kampala Road",
+                "city": "Kampala",
+                "state": "UG",
+                "zip": "256"
             },
-            "phone": "9162469987",
+            "phone": "+256312260000",
             "email": "contact@landscapetreeco.com",
-            "website": "https://landscapetreeco.com/",
+            "website": "https://www.deniosmarket.com/",
             "logo": {
                 "url": "https://res.cloudinary.com/micronetonline/image/upload/c_crop,h_200,w_427,x_0,y_0/f_auto/q_auto:best/v1704755066/tenants/d63d369f-bc86-4c8e-b547-5545e12c7029/6cade229dea64a84b9c2837aa2b82f61/landscape.png",
                 "width": "180",
