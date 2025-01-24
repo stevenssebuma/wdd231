@@ -101,64 +101,64 @@
             "advertisement": " Get 5% off all purchases if you are a Chamber Member"
         },
         {
-            "business": "",
+            "business": "Serena Hotels",
             "address": {
-                "street": "Plot 2A Kampala Road",
+                "street": "Kintu Road, Plot 2",
+                "city": "Kampala",
+                "state": "UG",
+                "zip": "256"
+            },
+            "phone": "+256414309000",
+            "email": "contact@landscapetreeco.com",
+            "website": "https://www.serenahotels.com/",
+            "logo": {
+                "url": "https://image-tc.galaxy.tf/wisvg-bef60isivhiwcb2xdupujlz1o/serena-hotel-colored-logo.svg?width=122&height=64",
+                "width": "122",
+                "height": "64"
+            },
+            "membership": "silver",
+            "category": "Hospitality",
+            "advertisement": "Get 10% off all purchases if you are a Chamber Member"
+        },
+        {
+            "business": "Spear Motors Ltd",
+            "address": {
+                "street": "Plot 1 Jinja Road",
+                "city": "Kampala",
+                "state": "UG",
+                "zip": "256"
+            },
+            "phone": "+256414344200",
+            "email": "info@secureandalert.com",
+            "website": "https://www.spearmotors.net/",
+            "logo": {
+                "url": "https://static.wixstatic.com/media/adc327_98430ed33df049ed9482decb33597e40~mv2.jpg/v1/fill/w_121,h_85,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-02-28%20at%203_27_edited.jpg",
+                "width": "250",
+                "height": "100"
+            },
+            "membership": "gold",
+            "category": "Automotive",
+            "advertisement": "Get 10% off all purchases if you are a Chamber Member"
+        },
+        {
+            "business": "Sporta Med",
+            "address": {
+                "street": "Plot 3A Kampala Road",
                 "city": "Kampala",
                 "state": "UG",
                 "zip": "256"
             },
             "phone": "+256312260000",
-            "email": "contact@landscapetreeco.com",
-            "website": "https://www.deniosmarket.com/",
-            "logo": {
-                "url": "https://res.cloudinary.com/micronetonline/image/upload/c_crop,h_200,w_427,x_0,y_0/f_auto/q_auto:best/v1704755066/tenants/d63d369f-bc86-4c8e-b547-5545e12c7029/6cade229dea64a84b9c2837aa2b82f61/landscape.png",
-                "width": "180",
-                "height": "100"
-            },
-            "membership": "silver",
-            "category": "Home Improvement",
-            "advertisement": "It's time to freshen up your landscape.  Call or email us for a free consultation. Keep your yard looking great all year round!  Chamber members get an extra 15% Off."
-        },
-        {
-            "business": "Secure and Alert Systems Corp",
-            "address": {
-                "street": "1328 Blue Oaks Blvd",
-                "city": "Roseville",
-                "state": "CA",
-                "zip": "95678"
-            },
-            "phone": "9166756330",
-            "email": "info@secureandalert.com",
-            "website": "https://www.secureandalert.com/",
-            "logo": {
-                "url": "https://www.secureandalert.com/wp-content/uploads/2022/03/logo-v3.svg",
-                "width": "250",
-                "height": "100"
-            },
-            "membership": "gold",
-            "category": "Home Improvement",
-            "advertisement": "What goes on when you're not home? Need cameras or alarm security? Schedule a free consultation. Chamber members get an extra 15% discount."
-        },
-        {
-            "business": "Steve Wallen Swim School",
-            "address": {
-                "street": "10608 Industrial Ave STE 150",
-                "city": "Roseville",
-                "state": "CA",
-                "zip": "95691"
-            },
-            "phone": "9167947977",
             "email": "roseville@wallenswim.com",
-            "website": "https://wallenswim.com/locations/roseville/",
+            "website": "https://www.sportamed.com/",
             "logo": {
-                "url": "https://wallenswim.com/wp-content/uploads/2018/02/Wallen_Swim_School_Logo_01.png",
+                "url": "https://www.f6s.com/content-resource/profiles/5688779_22f698a9be02137ab8696405550c72c57284438f_th1.jpg",
                 "width": "275",
                 "height": "75"
             },
             "membership": "bronze",
-            "category": "Sports & Recreation",
-            "advertisement": ""
+            "category": "Health & Wellness",
+            "advertisement": "Get 5% off all purchases if you are a Chamber Member"
         }
     ]
 }
