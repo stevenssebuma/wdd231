@@ -1,18 +1,18 @@
 {
     "members": [
         {
-            "business": "Ashley Furniture Homestore",
+            "business": "Mukwano Industries Uganda Ltd",
             "address": {
-                "street": "10349 Fairway Dr",
-                "city": "Roseville",
-                "state": "CA",
-                "zip": "95678"
+                "street": "Plot 30 Mukwano Road",
+                "city": "Kampala",
+                "state": "UG",
+                "zip": "256"
             },
-            "phone": "9169535757",
-            "email": "info@ashleyfurniture.com",
-            "website": "https://www.ashleyfurniture.com/",
+            "phone": "+256414313200",
+            "email": "admin@mukwano.com",
+            "website": "https://www.mukwano.com/",
             "logo": {
-                "url": "https://www.ashleyfurniture.com/on/demandware.static/-/Library-Sites-AshcommSharedLibrary/default/dw07126b7a/images/global/Ashley-Logo-Horizontal.svg",
+                "url": "https://mukwano.com/wp-content/uploads/2020/08/mukwano-logo.png",
                 "width": "250",
                 "height": "100"
             },
