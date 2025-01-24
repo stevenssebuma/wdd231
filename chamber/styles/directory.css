@@ -206,7 +206,7 @@ footer p{
   }
 /* ------------ Directory --------------- */
 /* ------------ Directory --------------- */
-#directory h2 {
+#directory h1 {
     margin-top: .25rem;
     text-align: center;
     font-size: 2rem;
