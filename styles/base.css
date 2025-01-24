@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display&display=swap');
 body {  
-    font-family: Arial, sans-serif;  
+    font-family: 'Roboto', Arial, sans-serif;  
     margin: 0;  
     padding: 0;  
     background-color: #f4f4f4;  
@@ -44,7 +45,7 @@ nav ul {
 }  
 
 nav ul li:hover {  
-    background-color: #030b38;  
+    background-color: #3f51b5;  
     color: white;
 }  
 
