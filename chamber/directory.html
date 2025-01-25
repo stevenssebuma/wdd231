@@ -29,9 +29,9 @@
                 <button id="hamburger" title="menu button"></button>
             </div>
             <ul>
-                <li class="current-menu-item"><a href="index.html" onclick="changeMenu ('Home')">Home</a></li>
+                <li><a href="index.html" onclick="changeMenu ('Home')">Home</a></li>
                 <li><a href="discover.html" onclick="changeMenu ('old')">Discover</a></li>
-                <li><a href="directory.html" onclick="changeMenu ('New')">Directory</a></li>
+                <li class="current-menu-item"><a href="directory.html" onclick="changeMenu ('New')">Directory</a></li>
                 <li><a href="join.html" onclick="changeMenu ('New')">Join</a></li>
 
             </ul>
@@ -39,6 +39,18 @@
     </header>
 
     <main id="directory">
+        <img class="icon2" src="images/chat-bubble.png" alt="Chat now" onclick="openForm()">
+                <div class="chat-popup" id="myForm">
+                    <form action="/action_page.php" class="form-container">
+                    
+                    
+                    <label id="msg"><b>Message</b></label>
+                    <textarea placeholder="Type message.." name="msg" required></textarea>
+                    
+                    <button type="submit" class="btn">Send</button>
+                    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+                  </form>
+                </div>  
         <h1>Member Directory</h1>
         <div class="menu">
             <button id="grid">🔳 Grid</button>
