@@ -631,6 +631,13 @@ main h1 {
     background-color: transparent;
     color: black;
 }
+iframe{
+  width: 600px; 
+  height: 450px; 
+  border: 2px;
+
+}
+
 @media (max-width: 768px) {
   .join-main {
       display:block;

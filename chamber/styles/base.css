@@ -172,6 +172,7 @@
       animation: fadeIn 2s ease-in-out forwards;
     }
     
+
     @keyframes fadeIn {
       from {
         opacity: 0;
@@ -189,6 +190,9 @@
       opacity: 1;
     }
     iframe{
+      width: 600px; 
+      height: 450; 
+      border: 2px;
       width: 100%;
       margin-bottom: 50px;
     }
