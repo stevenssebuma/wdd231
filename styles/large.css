@@ -1,4 +1,4 @@
-
+/* Mobile view adjustments */
 @media (max-width: 600px) {  
     nav {  
         display: none; /* Hide the nav initially */  
