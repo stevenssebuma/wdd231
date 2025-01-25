@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display&display=swap');
 /* "*" global reset  */
 * {
     margin: 0;
@@ -344,9 +346,6 @@ footer p{
 }
 @media screen and (max-width: 700px) {
     
-  
-
-    @import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display&display=swap');
     :root {
         --primary-color: #114B56;
         --secondary-color: #489FB5;
@@ -980,4 +979,4 @@ footer p{
         color: black;
     }
     
-    }
+}
