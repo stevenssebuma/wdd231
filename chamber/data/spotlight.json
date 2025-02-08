@@ -1,0 +1,45 @@
+{
+    "members": [
+        {
+            "business": "Mukwano Industries Uganda Ltd",
+            "address": {
+                "street": "Plot 30 Mukwano Road",
+                "city": "Kampala",
+                "state": "UG",
+                "zip": "256"
+            },
+            "phone": "+256414313200",
+            "email": "admin@mukwano.com",
+            "website": "https://www.mukwano.com/",
+            "logo": {
+                "url": "https://mukwano.com/wp-content/uploads/2020/08/mukwano-logo.png",
+                "width": "200",
+                "height": "100"
+            },
+            "membership": "gold",
+            "category": "Shopping",
+            "advertisement": "Get an Extra 10% off purchases if you are a Chamber Member"
+        },
+        {
+            "business": "Uganda Baati Ltd",
+            "address": {
+                "street": "Plot 14/28 Old Portbell Road",
+                "city": "Kampala",
+                "state": "UG",
+                "zip": "256"
+            },
+            "phone": "+256312260000",
+            "email": "",
+            "website": "https://www.ugandabaati.com/",
+            "logo": {
+                "url": "https://ugandabaati.com/wp-content/uploads/2020/02/site-logo.png",
+                "width": "250",
+                "height": "100"
+            },
+            "membership": "silver",
+            "category": "Home Improvement",
+            "advertisement": "Get 5% off all purchases if you are a Chamber Member"
+        }
+        
+    ]
+}
