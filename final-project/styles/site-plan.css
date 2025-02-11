@@ -68,6 +68,12 @@ p {
   color: var(--paragraph-color-on-white);
   padding: 1em;
 }
+
+.logo {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+}
 .colors {
   width: 100%;
   min-width: 350px;
