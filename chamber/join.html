@@ -80,22 +80,59 @@
         
         <section class="benefits-container">
             <h2>Membership Benefits</h2>
-                <div class="benefit">            
-                    <p><strong>NP Membership:</strong>  Access to basic offers. For free.</p>
-                </div>
-                <div class="benefit">            
-                    <p><strong>Bronze Membership:</strong> Includes standard benefits plus access to basic training sessions.</p>
-                </div>
-                <div class="benefit"> 
-                    <p><strong>Silver Membership:</strong> All bronze benefits plus advertising spots and event discounts.</p>
-                </div>
-                <div class="benefit"> 
-                    <p><strong>Gold Membership:</strong> All silver benefits plus premium event access and spotlight positions.</p>
-                </div>
+            <div class="benefit">
+                <p><strong>NP Membership:</strong></p>
+                <button onclick="openModal('npModal')">View Benefits</button>
+            </div>
+            <div class="benefit">
+                <p><strong>Bronze Membership:</strong></p>
+                <button onclick="openModal('bronzeModal')">View Benefits</button>
+            </div>
+            <div class="benefit">
+                <p><strong>Silver Membership:</strong></p>
+                <button onclick="openModal('silverModal')">View Benefits</button>
+            </div>
+            <div class="benefit">
+                <p><strong>Gold Membership:</strong></p>
+                <button onclick="openModal('goldModal')">View Benefits</button>
+            </div>
         </section>
+
+        <!-- Modals -->
+        <div id="npModal" class="modal">
+            <div class="modal-content">
+                <span class="close" onclick="closeModal('npModal')">&times;</span>
+                <h2>NP Membership Benefits</h2>
+                <p>Access to basic offers. For free.</p>
+            </div>
         </div>
-        
-    </main>
+
+        <div id="bronzeModal" class="modal">
+            <div class="modal-content">
+                <span class="close" onclick="closeModal('bronzeModal')">&times;</span>
+                <h2>Bronze Membership Benefits</h2>
+                <p>Includes standard benefits plus access to basic training sessions.</p>
+            </div>
+        </div>
+
+        <div id="silverModal" class="modal">
+            <div class="modal-content">
+                <span class="close" onclick="closeModal('silverModal')">&times;</span>
+                <h2>Silver Membership Benefits</h2>
+                <p>All bronze benefits plus advertising spots and event discounts.</p>
+            </div>
+        </div>
+
+        <div id="goldModal" class="modal">
+            <div class="modal-content">
+                <span class="close" onclick="closeModal('goldModal')">&times;</span>
+                <h2>Gold Membership Benefits</h2>
+                <p>All silver benefits plus premium event access and spotlight positions.</p>
+            </div>
+        </div
+
+                
+        </main>
     
     <footer>
         <script src="scripts/timestamp.js"></script>

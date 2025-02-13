@@ -49,6 +49,14 @@ document.getElementById('event-description').textContent = 'Description: ' + eve
 document.getElementById('event-image').src = eventData.image;
 document.getElementById('learn-more').href = eventData.link;
 
+function openModal(modalId) {
+    document.getElementById(modalId).style.display = "block";
+
+}
+function closeModal(modalId) {
+    document.getElementById(modalId).style.display = "none";
+}
+
 
     
 
