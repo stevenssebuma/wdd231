@@ -499,6 +499,19 @@ main h1 {
   margin: 1rem;
 }
 
+.benefit button{
+  padding: 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.benefit button:hover {
+  background-color: var(--headline-color-on-white);
+  color: var(--accent2-color);
+  border-radius: 5px;
+}
+
 .modal {
     display: none;
     position: fixed;
