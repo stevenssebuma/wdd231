@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Demographics",
+        "content": [
+            "Population: 4 Million",
+            "Time Zone: EAT",
+            "Country: Uganda",
+            "City: Kampala",
+            "Division: Central",
+            "Number of Visits: <span class='visits'></span>"
+        ]
+    },
+    {
+        "title": "Events",
+        "content": [
+            "Kampala Festival",
+            "Nyege Nyege Festival",
+            "Enkuka Yomwaka"
+        ]
+    },
+    {
+        "title": "Attractions",
+        "content": [
+            "Come see the Amazing Evergreen city",
+            "You can cool the hot sunny day at the beach in Entebbe",
+            "Discover the blissful Outdoor in the equatorial mountains"
+        ]
+    },
+    {
+        "title": "Days Between Visits",
+        "content": [
+            "<hr>",
+            "<div id='visitMessage'></div>",
+            "<hr>"
+        ]
+    },
+    {
+        "title": "Calendar",
+        "content": [
+            "<iframe src='https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Uganda%2FKampala%2FKampala&bgcolor=%23ffffff&src=NmI0Y2NiNTgwNGQwNTg1MWFiZjEwNGFmYWE5YjkwOTE0MzRmYzdkODMxYTdhOWZlZmJhMGJjNGM1YjA2MGUwNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%239E69AF&color=%230B8043'></iframe>"
+        ]
+    }
+]

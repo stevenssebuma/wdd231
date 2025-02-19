@@ -295,6 +295,11 @@
   .callAction :hover {
     background-color: transparent;
   }
+
+  .info{
+    text-align: center;
+    font-size: 1.5rem;
+  }
   @media (max-width: 768px) {
     .mainContent {
         display:block;
