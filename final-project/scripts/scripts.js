@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Activate the hamburger button
+    //Activate the hamburger button
     const hamButton = document.querySelector("#hamburger");
     const ul = document.querySelector("ul");
     
